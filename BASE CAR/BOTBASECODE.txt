@@ -1,10 +1,6 @@
 /*
    === Arduino Mecanum Wheels Robot ===
-     Smartphone control via Bluetooth 
-  by Dejan, www.HowToMechatronics.com
-  Libraries:
-  RF24, https://github.com/tmrh20/RF24/
-  AccelStepper by Mike McCauley: http://www.airspayce.com/mikem/arduino/AccelStepper/index.html
+  by RAHUL
 
 */
 

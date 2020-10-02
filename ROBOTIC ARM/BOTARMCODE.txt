@@ -1,6 +1,6 @@
 /*        
-       DIY Arduino Robot Arm Smartphone Control  
-        by Dejan, www.HowToMechatronics.com  
+        Arduino Robot Arm Smartphone Control  
+        BY Rahul  
 */
 
 #include <SoftwareSerial.h>
