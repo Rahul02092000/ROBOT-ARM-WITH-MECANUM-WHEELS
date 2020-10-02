@@ -1,7 +1,7 @@
 /*
        Arduino Robot Arm and Mecanum Wheels Robot
           Smartphone Control via Bluetooth
-       by Dejan, www.HowToMechatronics.com
+       by Tinku
 */
 
 #include <SoftwareSerial.h>
@@ -574,12 +574,7 @@ void runSteps() {
 }
 
 
-
-
-
-
-
-
 /*
        Arduino Robot
 */
+
